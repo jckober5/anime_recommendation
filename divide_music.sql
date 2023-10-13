@@ -1,4 +1,4 @@
-create or replace view external_data.divide_music as(
+create or replace view external_data.vw_divide_music as(
 	with songs as( # Filter out the Shorts Videos and join to Channel data
 		select 
 			dmv.*

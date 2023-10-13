@@ -1,4 +1,5 @@
 # Divide Music
+[https://koberstudio.com/divide_music/]
 Over the past years I have became a huge fan of the artist Divide Music and the music he releases. Some of my favorite songs include Drag Me Under, Stand Tall, and By My Side. I love how he incorporates the feeling and emotion from the movie/show into his song that he backdrops to his created music video on Youtube. I know his channel has been growing over the last years but I wanted to do this project to find out just how much it has been growing.
 
 In this project we aim to answer the following questions…
