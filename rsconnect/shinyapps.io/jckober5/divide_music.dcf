@@ -1,0 +1,13 @@
+name: divide_music
+title: divide_music
+username: jckober5
+account: jckober5
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10397942
+bundleId: 7883820
+url: https://jckober5.shinyapps.io/divide_music/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Divide Music.twbx|divide_music.csv|divide_music.ipynb|divide_music.pbix|divide_music.sql|divide_music_channel.csv|Divide_Music_Logo.svg|divide_music_prediction_model.R|divide_music_videos.csv|Logo.svg|README.md|shows_categorized.csv|survey_template.drawio|tableau_bckgrd.svg
